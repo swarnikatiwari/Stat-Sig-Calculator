@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"return"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"selec",
+				"selectAll"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"tim",
+				"time_axis"
+			],
+			[
+				"coun",
+				"count_axis"
+			],
+			[
+				"time",
+				"time_scale"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"co",
+				"count_extent"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"f",
+				"fill\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"res",
+				"result_word"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"ke",
+				"keyword_id"
+			],
+			[
+				"my",
+				"myConnection"
+			],
+			[
+				"wr",
+				"writeToDb"
+			],
+			[
+				"a",
+				"avg_visits_perweek"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/swarnikarastogi/Downloads/hierarchy.sql",
+		"/Users/swarnikarastogi/National_email_domains copy.csv",
+		"/Users/swarnikarastogi/Documents/National_email_domains.csv",
+		"/Users/swarnikarastogi/Downloads/basic_charts/basic_charts.html",
+		"/Users/swarnikarastogi/Downloads/data_vis_demo/d3.v5.min.js",
+		"/Users/swarnikarastogi/Desktop/d3js_projects/project_1.html",
+		"/Users/swarnikarastogi/Desktop/d3js_projects/d3.v5.min.js",
+		"/Users/swarnikarastogi/Downloads/sixtload.sh",
+		"/Users/swarnikarastogi/Downloads/gunzip pagecounts-20160701-000000.gz",
+		"/Users/swarnikarastogi/Downloads/sparkjobsixt.py",
+		"/Users/swarnikarastogi/Downloads/pagecounts-20150801-050000",
+		"/Users/swarnikarastogi/Downloads/sixtkey.pem",
+		"/Users/swarnikarastogi/Downloads/publicsixt4.pub",
+		"/Users/swarnikarastogi/Downloads/pubsixt.pub",
+		"/Users/swarnikarastogi/Downloads/testkey.pem",
+		"/Users/swarnikarastogi/Downloads/test2.pem",
+		"/Users/swarnikarastogi/Downloads/publicsixt4",
+		"/Users/swarnikarastogi/Downloads/daily_cs_pyspark_step_file.py",
+		"/private/var/folders/sp/qb_yv5xn20s5mlk9t_ns4p940000gn/T/cfc05cc6-1ef0-4e0b-bfaf-5d040b2c85cb/aviso.internal.data/EMRScripts/daily_cs_pyspark_step_file.py",
+		"/Users/swarnikarastogi/Downloads/aviso3.sql",
+		"/Users/swarnikarastogi/Downloads/aviso2.sql",
+		"/Users/swarnikarastogi/Downloads/aviso3.py",
+		"/Users/swarnikarastogi/Downloads/aviso1.py",
+		"/Users/swarnikarastogi/Library/Application Support/Sublime Text 3/Packages/User/queries.sql"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
