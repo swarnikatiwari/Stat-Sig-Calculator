@@ -1,0 +1,1 @@
+web: gunicorn stat_calculator: server
