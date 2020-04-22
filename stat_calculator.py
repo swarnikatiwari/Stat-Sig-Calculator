@@ -14,7 +14,7 @@ colors = dict(background='#111111', text='#008080')
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-server = app.server
+# server = app.server
 
 ALLOWED_TYPES = ("number", "number")
 
