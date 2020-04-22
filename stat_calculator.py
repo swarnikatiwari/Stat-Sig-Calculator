@@ -1,3 +1,8 @@
+external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
+
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+server = app.server
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -11,10 +16,10 @@ from scipy.stats import chi2_contingency, fisher_exact
 # define colors to standardize color calls throughout the dashboard
 colors = dict(background='#111111', text='#008080')
 
-external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
-
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-server = app.server
+# external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
+#
+# app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+# server = app.server
 
 ALLOWED_TYPES = ("number", "number")
 
