@@ -5,16 +5,20 @@ from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 import numpy as np
 from scipy.stats import chi2_contingency, fisher_exact
+from flask import Flask
 
 # app = dash.Dash()
+server = Flask('my app')
 
 # define colors to standardize color calls throughout the dashboard
 colors = dict(background='#111111', text='#008080')
 
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-server = app.server
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets, server=server)
+# server = app.server
+
+# print(server)
 
 ALLOWED_TYPES = ("number", "number")
 
