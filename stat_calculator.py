@@ -63,10 +63,12 @@ app.layout = html.Div(
          html.Label("B"),
          dcc.Input(id='conversion_test', value=150, type='number', placeholder='Test Conversion', debounce=True),
          dcc.Input(id='sample_test', value=1000, type='number', placeholder='Test Sample', debounce=True),
-         html.Div(id='ratio'),
+         html.Div(id='ratio', style={'textAlign': 'center'}),
          # create a default graph
+         html.Br(),
          html.P("Visual representation of the conversion probabilities of each test group:", style={'textAlign': 'center'}),
-         dcc.Graph(id='AvB', style={"width": "75%", "display": "inline-block"})
+         html.Br(),
+         dcc.Graph(id='AvB', style={"width": "75%", "display": "inline-block", "align":"center"})
          ]
 )
 
@@ -91,7 +93,7 @@ def update_output_div(conversion_test, sample_test, conversion_control, sample_c
     # b = 1
     # p = 2
     return """A Conversion Rate is: %.2f %% and B Conversion Rate is: %.2f %% \n
-			 The p-value of this test is: %f""" % (a, b, p), px.bar(graph_df, x="converted", y="probability", color="test_group")
+			 The p-value of this test is: %f""" % (a, b, p), px.bar(graph_df, x="converted", y="probability", color="test_group", barmode='group')
 
 
 if __name__ == '__main__':
