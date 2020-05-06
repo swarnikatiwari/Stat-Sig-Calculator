@@ -1,5 +1,5 @@
 # Stat-Sig-Calculator
-Web application with Stat Sig calculation using the **Frequentist Method**
+Web application with Stat Sig calculation on AB tests using the **Frequentist Method**
 
 ## Purpose:
 Visual Representation of statistical parameters of an AB test
