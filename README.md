@@ -16,3 +16,6 @@ Built using  `plotly express` for charts. Inputs and Outputs using `Dash`. App w
 1. Slider for significance and power --> Changing significance/ results readout based on this
 2. Ability to add more than two variants
 3. Graphical representation of statistical significance and power
+
+## References
+1. [Math Behind A/B testing|https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f]
