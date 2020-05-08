@@ -18,4 +18,4 @@ Built using  `plotly express` for charts. Inputs and Outputs using `Dash`. App w
 3. Graphical representation of statistical significance and power
 
 ## References
-1. [Math Behind A/B testing|https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f]
+1. [Math Behind A/B testing](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
